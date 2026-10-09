@@ -1,1 +1,1 @@
-# Laboratory
+Friend Project
